@@ -1,0 +1,6 @@
+# ignore ALL .log files
+*.class
+
+# ignore ALL files in ANY directory named temp
+.settings/
+.bin/
