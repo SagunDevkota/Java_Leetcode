@@ -52,10 +52,10 @@ Output: 1994
 Explanation: M = 1000, CM = 900, XC = 90 and IV = 4.
  *
  */
-public class RomanToInteger {
+public class RomanToIntegerQ13 {
 
 	public static void main(String[] args) {
-		RomanToInteger obj = new RomanToInteger();
+		RomanToIntegerQ13 obj = new RomanToIntegerQ13();
 		System.out.println(obj.romanToInt("MDCCCLXXXIV"));
 	}
 
